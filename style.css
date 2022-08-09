@@ -1,0 +1,33 @@
+div[title='firstDiv'] {
+    color: violet;
+}
+
+.element {
+    color: blue;
+}
+
+.lol {
+    color: brown;
+    font-family: Hack;
+    font-weight: bold;
+    background-color: black;
+    background-image: url(tree-736885__480.jpg);
+}
+
+.svetofor div {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
